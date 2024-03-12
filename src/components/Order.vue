@@ -10,7 +10,7 @@
       </a>
     </div>
 
-    <div class="px-6 py-6 text-center">
+    <div class="px-6 py-4 text-center">
       <h1 class="font-bold py-2">Order Summary</h1>
       <p class="des-blue font-semibold">
         You can now listen to millions of songs, audiobooks, and podcasts on any device
@@ -18,7 +18,7 @@
       </p>
 
 
-      <div class="pale-blue flex flex-col sm:flex-row py-6 px-2 my-4 rounded-xl">
+      <div class="pale-blue flex flex-col sm:flex-row py-6 px-2 my-2 rounded-xl">
         <div class="left w-full">
           <div class="flex items-center">
             <img
@@ -44,11 +44,11 @@
         </div>
       </div>
     </div>
-    <div class="payments text-center py-4">
+    <div class="payments text-center py-2">
       <button class="checkout text-white font-bold py-2 px-14 rounded-xl shadow-xl">
         Proceed to Payment
       </button>
-      <p class="des-blue font-bold py-2">Cancel Order</p>
+      <p class="des-blue font-bold py-3">Cancel Order</p>
     </div>
   </div>
 
